@@ -17,7 +17,7 @@ jobs:
         name: SetUp_Go
         command: |
           ls
-          ls
+          ls && ls
           sleep 2s
 
     - run:
