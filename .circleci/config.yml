@@ -25,7 +25,7 @@ jobs:
         command: |
           ls
           ls && ls -a
-          ls
+          ls && sleep 2s
 
 
 
